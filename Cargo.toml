@@ -1,0 +1,11 @@
+[package]
+name = "pockets"
+version = "0.1.0"
+edition = "2024"
+authors = ["Ezio416"]
+description = "A file manager."
+license = "BSD 2-Clause"
+repository = "https://github.com/ezio416/pockets"
+readme = "README.md"
+
+[dependencies]
